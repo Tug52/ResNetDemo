@@ -1,0 +1,21 @@
+artifact_path: C:\Users\st\Desktop\ResNetDemo\models
+flavors:
+  python_function:
+    config:
+      device: null
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pytorch
+    pickle_module_name: mlflow.pytorch.pickle_module
+    python_version: 3.12.3
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.3.0+cpu
+mlflow_version: 2.14.1
+model_size_bytes: 44796254
+model_uuid: 878f8b982fce45acb6806785cbcddf45
+run_id: d06b5d749871483ea0cd40f09c21a685
+utc_time_created: '2024-06-27 10:59:23.751414'

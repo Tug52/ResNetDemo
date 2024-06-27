@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/0/57205b2a6f524fe7891505d528f72aeb/artifacts
+deleted_time: 1719474713928
+end_time: 1719472851457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 57205b2a6f524fe7891505d528f72aeb
+run_name: powerful-trout-888
+run_uuid: 57205b2a6f524fe7891505d528f72aeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719472774957
+status: 3
+tags: []
+user_id: st

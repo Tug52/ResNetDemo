@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/0/a692fdf954e5454c92261fd48532f47c/artifacts
+end_time: 1719477811431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a692fdf954e5454c92261fd48532f47c
+run_name: fortunate-bug-793
+run_uuid: a692fdf954e5454c92261fd48532f47c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719477544010
+status: 3
+tags: []
+user_id: st

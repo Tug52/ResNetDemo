@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/0/9b373b7e23e84f7fa290caa699ee131a/artifacts
+deleted_time: 1719474713928
+end_time: 1719473013967
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9b373b7e23e84f7fa290caa699ee131a
+run_name: unruly-ant-387
+run_uuid: 9b373b7e23e84f7fa290caa699ee131a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719472917498
+status: 3
+tags: []
+user_id: st
