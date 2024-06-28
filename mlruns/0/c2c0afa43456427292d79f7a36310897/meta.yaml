@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/0/c2c0afa43456427292d79f7a36310897/artifacts
+deleted_time: 1719476288569
+end_time: 1719475854345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: c2c0afa43456427292d79f7a36310897
+run_name: ambitious-ant-402
+run_uuid: c2c0afa43456427292d79f7a36310897
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719475854275
+status: 3
+tags: []
+user_id: st

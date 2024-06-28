@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/639411552633004935/461a46159f00444298d9c2dfe80022f4/artifacts
+end_time: 1719386250410
+entry_point_name: ''
+experiment_id: '639411552633004935'
+lifecycle_stage: active
+run_id: 461a46159f00444298d9c2dfe80022f4
+run_name: nervous-fowl-134
+run_uuid: 461a46159f00444298d9c2dfe80022f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719386250226
+status: 3
+tags: []
+user_id: st

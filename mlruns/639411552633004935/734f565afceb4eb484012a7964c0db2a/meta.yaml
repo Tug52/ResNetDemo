@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/639411552633004935/734f565afceb4eb484012a7964c0db2a/artifacts
+deleted_time: 1719385127814
+end_time: 1719325879327
+entry_point_name: ''
+experiment_id: '639411552633004935'
+lifecycle_stage: deleted
+run_id: 734f565afceb4eb484012a7964c0db2a
+run_name: industrious-koi-571
+run_uuid: 734f565afceb4eb484012a7964c0db2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719325879271
+status: 3
+tags: []
+user_id: st

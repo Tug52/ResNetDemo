@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/0/002076a0c66a4a79824f85b8586b81f2/artifacts
+end_time: 1719477172922
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 002076a0c66a4a79824f85b8586b81f2
+run_name: dort
+run_uuid: 002076a0c66a4a79824f85b8586b81f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719476916210
+status: 3
+tags: []
+user_id: st

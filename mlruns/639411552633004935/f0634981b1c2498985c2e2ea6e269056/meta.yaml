@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/639411552633004935/f0634981b1c2498985c2e2ea6e269056/artifacts
+deleted_time: 1719385127815
+end_time: 1719324187911
+entry_point_name: ''
+experiment_id: '639411552633004935'
+lifecycle_stage: deleted
+run_id: f0634981b1c2498985c2e2ea6e269056
+run_name: amusing-wasp-229
+run_uuid: f0634981b1c2498985c2e2ea6e269056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719324187849
+status: 3
+tags: []
+user_id: st

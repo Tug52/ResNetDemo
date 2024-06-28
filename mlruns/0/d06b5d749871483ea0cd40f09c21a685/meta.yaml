@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/0/d06b5d749871483ea0cd40f09c21a685/artifacts
+end_time: 1719485976251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d06b5d749871483ea0cd40f09c21a685
+run_name: burly-moose-11
+run_uuid: d06b5d749871483ea0cd40f09c21a685
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719485653004
+status: 3
+tags: []
+user_id: st

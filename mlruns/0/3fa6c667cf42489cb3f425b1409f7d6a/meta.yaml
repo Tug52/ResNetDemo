@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/0/3fa6c667cf42489cb3f425b1409f7d6a/artifacts
+deleted_time: 1719474713926
+end_time: 1719472187762
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3fa6c667cf42489cb3f425b1409f7d6a
+run_name: flawless-pug-732
+run_uuid: 3fa6c667cf42489cb3f425b1409f7d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719472088019
+status: 3
+tags: []
+user_id: st

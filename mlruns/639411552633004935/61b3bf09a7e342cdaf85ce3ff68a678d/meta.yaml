@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/639411552633004935/61b3bf09a7e342cdaf85ce3ff68a678d/artifacts
+deleted_time: 1719385127813
+end_time: 1719384504830
+entry_point_name: ''
+experiment_id: '639411552633004935'
+lifecycle_stage: deleted
+run_id: 61b3bf09a7e342cdaf85ce3ff68a678d
+run_name: efficient-bird-769
+run_uuid: 61b3bf09a7e342cdaf85ce3ff68a678d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719384504777
+status: 3
+tags: []
+user_id: st

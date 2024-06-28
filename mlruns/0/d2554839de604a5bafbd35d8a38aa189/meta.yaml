@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/st/Desktop/ResNetDemo/mlruns/0/d2554839de604a5bafbd35d8a38aa189/artifacts
+deleted_time: 1719476298414
+end_time: 1719476256566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d2554839de604a5bafbd35d8a38aa189
+run_name: beautiful-ant-17
+run_uuid: d2554839de604a5bafbd35d8a38aa189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719476223610
+status: 3
+tags: []
+user_id: st
